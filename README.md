@@ -1,4 +1,6 @@
-# type_it — Macro Keyboard
+# Type it — Macro Keyboard
+
+![Type it — Macro Keyboard](./assets/type_it.jpeg)
 
 A pocket macro keyboard for the snippets you type over and over: chat replies,
 work responses, template text. Turn the knob, pick a snippet, and it is sent —

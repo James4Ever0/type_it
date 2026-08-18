@@ -1,0 +1,7 @@
+# Arduino build output (arduino-cli --build-path build/)
+build/
+
+# Compiled firmware artifacts
+*.elf
+*.hex
+*.uf2

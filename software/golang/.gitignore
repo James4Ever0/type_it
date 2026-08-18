@@ -1,0 +1,6 @@
+# Compiled binary produced by compile.sh / test.sh
+/type_it
+*.exe
+
+# Runtime state (last-used ordering, knob angle)
+usage.json

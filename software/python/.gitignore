@@ -1,0 +1,6 @@
+# Python bytecode cache
+__pycache__/
+*.py[cod]
+
+# Runtime state (last-used ordering, UI state)
+usage.json

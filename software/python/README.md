@@ -1,4 +1,4 @@
-# type_it Python — Desktop Demo (pygame)
+# Type It Python — Desktop Demo (pygame)
 
 A [pygame](https://www.pygame.org/) simulation of the macro keyboard: it
 renders the LED display and knob, reads the same `./profiles` text files as

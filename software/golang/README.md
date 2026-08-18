@@ -1,4 +1,4 @@
-# type_it Go — Desktop Demo (Ebiten)
+# Type It Go — Desktop Demo (Ebiten)
 
 A Go/[Ebiten](https://ebitengine.org/) simulation of the macro keyboard: it
 renders the LED display and knob, reads the same `./profiles` text files as

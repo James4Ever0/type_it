@@ -1,4 +1,4 @@
-# Dependencies — type_it Macro Keyboard
+# Dependencies — Type It Macro Keyboard
 
 ## Required software
 

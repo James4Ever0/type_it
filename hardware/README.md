@@ -1,4 +1,4 @@
-# type_it Hardware — RP2040 Zero Macro Keyboard
+# Type It Hardware — RP2040 Zero Macro Keyboard
 
 A physical macro keyboard: a Waveshare **RP2040 Zero** running Arduino
 firmware, a 1.3" **SH1106 128×64 I2C OLED**, and an **EC11 rotary encoder**

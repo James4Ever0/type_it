@@ -1,4 +1,4 @@
-# Wiring Guide — type_it Macro Keyboard
+# Wiring Guide — Type It Macro Keyboard
 
 This document describes how to connect the RP2040 Zero to the SH1106 I2C display + rotary encoder module described in `pinouts.txt`.
 

@@ -6,6 +6,16 @@
 2. **Earle Philhower Arduino-Pico core** (supports RP2040/RP2350 boards with USB and LittleFS)
 3. **U8g2 library** by Oliver Kraus (SH1106 display driver)
 
+## Required hardware
+
+- 1.3 Inch TFT OLED display with EC11 rotary encoder board (IIC interface)
+
+[![TFT Screen Encoder Board](./assets/tft-screen-encoder-board.jpeg)](https://mobile.yangkeduo.com/goods.html?ps=Z3C52HupHn)
+
+- RP2040-Zero microcontroller board
+
+[![RP2040-Zero](./assets/rp2040-zero.jpeg)](https://mobile.yangkeduo.com/goods.html?ps=jFZypVHLIi)
+
 ## Arduino-Pico core installation
 
 ### Arduino IDE 2.x
